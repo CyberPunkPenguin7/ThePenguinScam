@@ -19,7 +19,7 @@ Choose your destiny wisely:
 - **JavaScript (ES6)** — For handling button clicks and enforcing Antarctic law.
 
 ## 🚀 Live Demo
-*(Once you enable GitHub Pages, paste your live link here!)*
+https://cyberpunkpenguin7.github.io/ThePenguinScam/
 
 ---
 *Disclaimer: No actual rupees were harmed in the making of this website. Please tip your local penguins in fish.*
